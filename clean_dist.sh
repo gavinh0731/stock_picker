@@ -1,3 +1,4 @@
+#!/bin/bash
 rm -rf img
 rm -rf json
 rm -rf json_otc
